@@ -318,7 +318,7 @@ Filesystem Options:
     --rm-cache-dir                       Delete all filesystem cache files
 
 
-Thumbnail Options:
+Thumbnail images:
 
     --write-thumbnail                    Write thumbnail image to disk
     --write-all-thumbnails               Write all thumbnail image formats to
